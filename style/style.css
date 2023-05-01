@@ -51,6 +51,7 @@ body{
   }
   
   #phrase {
+    padding: 0 10px;
     font-family: 'Caveat', cursive;
     font-size: 2em;
     text-align: center;
